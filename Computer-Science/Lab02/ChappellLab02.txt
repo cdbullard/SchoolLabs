@@ -1,0 +1,80 @@
+Problem 01:
+    Answer1: B. C0
+    Answer2: B. 06
+
+Problem 02:
+    Answer: A. C0
+
+Problem 03:
+    Answer: D. 04
+
+Problem 04:
+    Answer1: D. 06
+    Answer2: D. 06
+
+Problem 05:
+    Answer:
+
+        Address     Content     Interpretation
+            00      10
+            01      D8          Load Register 0 with contents of memory cell D8
+            02      11
+            03      B3          Load Register 1 with contents of memory cell B3
+            04      30
+            05      B3          Store contents of Register 0 in memory cell B3
+            06      31
+            07      D8          Store contents of Register 1 in memory cell D8
+            08      C0
+            09      00          Halt!
+
+Problem 06:
+    AnswerA:    27A5
+    AnswerB:    17A5
+    AnswerC:    5465
+    AnswerD:    7465
+    AnswerE:    6456
+
+Problem 07:
+    Answer:     B. 2.5 2 2 125
+
+Problem 08:
+    Answer:     D. 1 1
+
+Problem 09:
+    Answer:
+
+        Address     Content     Interpretation
+            00      21
+            01      3A          Load bit pattern 3A into register 1
+            02      22
+            03      43          Load bit pattern 43 into register 2
+            04      53
+            05      12          Add the contents of register 1 and register 2, and store in register 3
+            06      33
+            07      BB          Store the contents of register 3 in memory cell address BB
+            08      C0
+            09      00          Halt
+
+Problem 10:
+    Answer:
+
+        Address     Content     Interpretation
+            00      20
+            01      A0          Load bit pattern A0 into register 0
+            02      21
+            03      05          Load bit pattern 05 into register 1
+            04      22
+            05      BB          Load bit pattern BB into register 2
+            06      53
+            07      01          Sum contents of register 0 and register 1 and store in register 3
+            08      54
+            09      23          Sum contents of register 2 and register 3 and store in register 4
+            0A      34
+            0B      CC          Store contents of register 4 in memory cell address CC
+            0C      C0
+            0D      00          Halt
+
+Problem 11:
+    Answer:
+
+    

@@ -1,0 +1,118 @@
+
+Question 1
+2 out of 2 points
+
+> x <- list(foo = 1:4, bar = 0.6, baz = "hello")  > name <- "foo"  > x$name
+What would be the output of the following code ?
+
+
+Selected Answer:
+D.
+NULL
+
+Question 2
+2 out of 2 points
+
+> polo_shirt <- c("L", "M", "XS", "L", "S", "XL", "XS", "L")
+> shirt_factor <- factor(polo_shirt)
+Which of the following is/are correct output(s) (Choose the most correct one)?
+
+
+Selected Answer:
+D.
+A and C are correct
+
+Question 3
+2 out of 2 points
+
+Suppose I have a list defined as x <- list(2, "a", "b", TRUE). What does x[[1]] give me?
+
+
+Selected Answer:
+C.
+2
+
+Question 4
+2 out of 2 points
+
+> x <- list(foo = 1:4, bar = 0.6)
+> x
+What would be the output of the following code ?
+
+
+
+Selected Answer:
+A.
+$foo  [1] 1 2 3 4  $bar  [1] 0.6
+
+
+Question 5
+2 out of 2 points
+
+> x <- list(a = list(15, 16, 17), b = c(3.5, 2.9))
+Which of the following code extracts 1st element of the 2nd element ?
+
+
+Selected Answer:
+A.
+x[[c(2, 1)]].
+
+
+Question 6
+2 out of 2 points
+
+ > x <- list(foo = 1:4, bar = 0.6)
+Which of the following extracts first element's value from the list x ?
+
+
+Selected Answer:
+E.
+A and C are correct
+
+Question 7
+2 out of 2 points
+
+> x <- list(a = list(10, 12, 14), b = c(3.14, 2.81))
+> x[[c(1, 3)]]
+What would be the output of the following code ?
+
+
+Selected Answer:
+B.
+14
+
+Question 8
+2 out of 2 points
+
+> polo_shirt <- c("L", "M", "XS", "L", "S", "XL", "XS", "L")
+> shirt_factor <- factor(polo_shirt, ordered = TRUE)
+Which of the following is a correct output (Choose the most correct one)?
+
+
+Selected Answer:
+B.
+> shirt_factor[3] < shirt_factor[5]  [1] FALSE
+
+
+Question 9
+2 out of 2 points
+
+Which of the following is a valid assignment?
+
+
+Selected Answer:
+B.
+> x <- factor(c("yes", "yes", "no", "yes", "no"))
+
+
+Question 10
+0 out of 2 points
+
+Point out the wrong statement below:
+
+
+Selected Answer:
+B.
+The [[ operator can take an integer sequence if you want to extract a nested element of a list
+
+

@@ -1,0 +1,40 @@
+Question 1:
+    Answer: A
+
+Question 2:
+    Answer: B
+
+Question 3:
+    AnswerA: -32
+    AnswerB: 55
+
+Question 4:
+    Answer: 0x8630047a
+
+Question 5:
+    Answer: C
+
+Question 6:
+    Answer: CSMA/CD isn’t compatible with wireless networks, because once a wireless packet is transmitted from the starting point,
+     the transmitting machine has no awareness of it’s transmission possibly colliding with another on the network, because it is not wired.
+     Another possible reason, is because the machines communicating with the Access Point, may be out of signal range of each other, which
+     would lead to the machines not being able to detect that other machines on the network are also transmitting to the Access Point at the
+      same time.
+
+Question 7:
+    Answer: 0x212a120a
+
+Question 8:
+    Answer: A
+
+Question 9:
+    Answer: attached as ChappellLab04.html
+
+Question 10:
+    Answer: A
+
+Question 11:
+    AnswerA: 32
+    AnswerB: 0xFFFFFFFF
+    AnswerC: website.com with www being a subdomain of website.com
+    AnswerD: 70.42.254.42

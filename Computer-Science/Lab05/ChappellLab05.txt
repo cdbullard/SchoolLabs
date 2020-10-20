@@ -1,0 +1,48 @@
+Question 1:
+    Answer: P, T
+Question 2:
+    Answer: gcd(a,b) 				== gcd(b,a mod b)
+            gcd(312,220)			== gcd(220, 312 mod 220)
+            gcd(220,92)			    == gcd(92, 220 mod 92)
+            gcd(92, 36)			    == gcd(36, 92 mod 36)
+            gcd(36, 20)			    == gcd(20, 36 mod 20)
+            gcd(20, 16)			    == gcd(16, 20 mod 16)
+            gcd(16, 4)				== gcd(4, 16 mod 4)
+            gcd(4, 0)				== 4
+
+Question 3:
+    Answer: A
+Question 4:
+    Answer: B
+Question 5:
+    Answer: B
+Question 6:
+    Answer: A
+Question 7:
+    Answer: I, M, K, J
+Question 8:
+    Answer: H, L, N, O
+Question 9:
+    Answer: D
+Question 10:
+    Answer: 3, 1, 0, 2, 4
+Question 11:
+    Answer: C
+Question 12:
+    Answer: B
+Question 13:
+    Answer: D
+Question 14:
+    Answer: D
+Question 15:
+    Answer: B
+Question 16:
+    Answer: A
+Question 17:
+    Answer: B
+Question 18:
+    Answer: C
+Question 19:
+    Answer: B
+Question 20:
+    Answer: D
