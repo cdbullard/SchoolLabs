@@ -1,12 +1,7 @@
 */**
-*
 !Computer-Science/**/*.py
 !Computer-Science/**/*.txt
 !Computer-Science/**/*.docx
 !Python-School/**/*.py
 !Python-School/**/*.txt
-**/*.zip
 !.gitignore
-.idea/**
-.idea/*
-.idea/
