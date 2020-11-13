@@ -1,0 +1,47 @@
+Question 1:
+    ANS A:  { (a, 1), (a, 2), (b, 1), (b, 2), (c, 1), (c, 2) }
+    ANS B:  { (a, 1), (b, 1), (c, 1) }
+    ANS C:  { (a, 1), (a, 2), (b, 1) }
+    ANS D:  It is not possible to create a function with four tuples, because there are only 3 possible first elements.
+            On the fourth tuple, you would have to reuse one of the first elements of the cartesian products.  By rule,
+            a function cannot contain two pairs with the same first element.
+    Ans E:  64 -- (2^6) possible relations
+    Ans F:  15 Possible relations
+
+Question 2:
+    Ans: B
+
+Question 3:
+    Ans A: { 2, d, 12 }
+    Ans B: { 1, c }
+    Ans C: { 1, c, d }
+    Ans D: { 2, d, b }
+    Ans E: { b }
+    Ans F: { 12, b, 2, c }
+    Ans G: { 2 }
+
+Question 4:
+    Ans: D
+
+Question 5:
+    Ans: { { }, { a }, { a, b }, { a, c }, { a, b, c }, { b }, { b, c }, { c } }
+
+Question 6:
+    Ans A: { (ab, ab), (ab, 22), (22, ab), (22, 22) }
+    Ans B: { (ab, ab), (ab, 22), (22, ab) }
+    Ans C: 6 possible relations
+
+Question 7:
+    Ans A: | B | = 50
+    Ans B: | B n A | = 5
+
+Question 8:
+    Ans A: 10 different combinations
+    Ans B: 20 different permutations
+
+Question 9:
+    Ans:  The value 20 in row sum = 64 represents that there are 20 relations possible when using 3 tuples to make the relations.
+
+Question 10:
+    Ans A: 8 tuples
+    Ans B: 5 tuples contain at least one '33'

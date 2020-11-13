@@ -56,7 +56,7 @@ if __name__ == '__main__':
     elif currency_types[int(currency_type)]['currency_type'] == 'Mexican Peso':
         from currency import to_yen as currency
 
-    print(f'${dollars} converted to {currency_types[int(currency_type)]["currency_sym"]}{currency(dollars)} '
+    print(f'${dollars:.2f} converted to {currency_types[int(currency_type)]["currency_sym"]}{currency(dollars)} '
           f'{currency_types[int(currency_type)]["currency_type"]}')
 
 

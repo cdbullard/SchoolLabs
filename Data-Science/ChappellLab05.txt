@@ -1,4 +1,0 @@
-Exercise 1:
-  > box <- c(460.998, 314.4, 290.475, 247.900, 309.306, 165.8)
-  > star_wars_matrix <- matrix(cbind(box), ncol = 2,
-+                            dimnames = list(c("row1", "row2", "row3"), c("US", "Non-US")))

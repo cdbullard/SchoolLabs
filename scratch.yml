@@ -1,0 +1,34 @@
+- Collected and presented data of current customer use cases to help drive future development
+- Coordinated, scheduled, and deployed new features and bug fixes to our container orchestration platform
+- Detailed reporting via Service Now, to help track existing and past incidents to ensure that SLA's are met
+- Coordinated and scheduled oncall rotation for support
+- Used a data driven approach to plan support and operations strategy on our platform
+- Wrote blameless post mortems for major platform incidents
+
+- Advising and consulting with clients regarding containerized solutions, how to best integrate their applications with containers and their best practices
+- Use of Python to develop and integrate new tooling and automation to more efficiently leverage our existing infrastructure
+- Full stack support of client applications and integration of their services with container orchestrations
+- Use of Ansible to manage our infrastructure and prevent configuration drift
+- Design and implementation of custom monitoring solutions using bats, bash, and python.
+- Developed and integrated Autofs solutions into for mounting external Network Attached Storage devices into container volumes for consumption
+- Use of Github, Reviewable, Jenkins, and Gitlab, to manage and speed up application development cycles and application deployment
+- In depth troubleshooting of issues ranging from container orchestration, Java/Groovy microservices, frontend and backend application tuning
+- Created automation to leverage vSphere and vCenter API's for bulk manipulation of our on-premise infrastructure.
+- Identification, design, and implementation of bug-fixes for a variety of microservices across different programming languages
+
+- Design, architecture and implemenation of Kubernetes cluster for hosting internal Blackduck Hub
+- Use of RKE, Openstack, Terraform, and cloud-config scripts to automate removal and join of failed nodes from Kubernetes cluster
+- Interfaced with Engineering IT teams to support and drive migration of previous docker-compose applications to Kubernetes specs
+
+- Replaced deteriorated Masonite siding with Royal Vinyl Siding on whole house
+- Replaced window after crashing through the window while falling off a ladder
+- Tore down wall separating Kitchen and Dining room, and replaced with a 32' double LVL beam, providing an open concept for the area
+- Moved washing machine from Kitchen to attached shed, sealing old plumbing, and installing new plumbing
+- Removed old alphalt shingles, and installed new 3 tab shingles on entire roof(30ish squares, 12 pitch), while replacing sheathing where needed
+- Built floor cabinets out of red oak for kitchen island
+- Removal of carpet, and installation of 5" wide 3/4" hickory flooring throughout the Dining Room, Kitchen, Hallways and Stairs
+- Removal of carpet and installation of 4" wide 3/8" engineered wood in all bedrooms
+- Installation of baseboard and quarteround throughout house
+- Remodoled bathroom, removal of drywall, toilet, old shower, vanity, and tile flooring.  Installed backerboard and tile on flooring and walls.  Installed plumbing and toilet in a new location, to provide the space for a bathtub.  Installed and plumbed bathtub and shower head, where shower was previously.  Replaced fan with a fan/light combo.  Installed new lighting and electrical.  Built 24x80" built-in storage cabinet out of Hickory scraps.
+- Ripped up old living room subfloor after discovering termite damage.  Replaced floor joists where necessary, as well as part of the outerband.  Installed new subfloor, 3/8" engineered hickory flooring, baseboards, and quarteround
+- Designed and built king-size platform bed, with pull out side drawers, and pull out side table, with solid 3/4" maple frame, 3/4" plywood mattress base, and MDF headboard/footboard
