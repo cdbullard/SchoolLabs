@@ -5,3 +5,8 @@
 !Python-School/**/*.py
 !Python-School/**/*.txt
 !.gitignore
+!Python-School/**/*
+*.zip
+*.xml
+*.iml
+.idea
