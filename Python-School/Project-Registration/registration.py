@@ -33,7 +33,7 @@ def main():
     while True:
             id = input("Please enter your student ID, or 0 to quit: ")
             if int(id) == 0:
-                break
+                exit()
             elif id not in (element for sublist in student_list for element in sublist):
                 while id not in (element for sublist in student_list for element in sublist):
                     print("Student ID incorrect, please enter your student number")
@@ -53,7 +53,7 @@ def main():
                     elif selection == 3:
                         student.list_courses(id=id, c_list=course_list, r_list=roster_list)
                     elif selection == 0:
-                        break
+                        main()
 
                 except ValueError:
                     print("Invalid entry, please try again.")
@@ -82,8 +82,8 @@ def login(id, s_list):
             student_pin = input("Enter student PIN: ")
             count += 1
 
-        if count == 3:
-            return False
+        if count >= 3:
+            main()
         else:
             print("ID and PIN verified")
             return True
